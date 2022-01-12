@@ -7,7 +7,7 @@
 *new edits from vscode*
 ## Ryan
 
-[Link](www.youtube.com)
+[youtube](www.youtube.com)
 
 ![Image](https://media.fisheries.noaa.gov/2021-01/atlantic_mackerel.jpg?VersionId=null)
 
