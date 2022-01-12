@@ -1,2 +1,4 @@
+![Image](screenshot.png)
+[Lab Report 1](lab-report-1-week-2.html)
 
-<img width="722" alt="Screen Shot 2022-01-12 at 3 05 57 PM" src="https://user-images.githubusercontent.com/97638566/149237189-9f7960db-ba3b-4707-b8f3-636da384237e.png">
+[Lab Report 1](https://rkangh.github.io/cse15l-lab-reports/lab-report-1-week-2.html)
