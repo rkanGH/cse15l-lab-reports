@@ -33,7 +33,8 @@ Here are a list of commands you can try:
 * Now we we want to practice moving files with the scp command from our computer to the online computer
 <br><br>
 * To do this create a file on your local computer called "WheremAmI.java" with the following contents:
-![Image](5.png)
+<br>
+![Image](ss.png)
 <br><br>
 * Next, in the terminal, run the following command:
 <br>
@@ -48,7 +49,7 @@ The terminal will prompt you for your password and you will enter it.
 * Now we will set up an SSH Key which will allow you to access the remote connection more easily. You will not need to a password to connect anymore.
 
 * To do this we need to be on the local computer and use the command "ssh-keygen". It will ask you to enter a file to save the key and you will put enter "/Users/(file path on your computer)/.ssh/id_rsa" then enter no passphrase twice and your screen should look like this: 
-![Image](6.png)
+![Image](s.png)
 <br><br>
 * Next, return to your local computer terminal and enter "ssh (Your username)@ieng6.ucsd.edu"
 Enter your password then, type the command "mkdir .ssh" and logout. After this step you should be able to log in without a password.
@@ -56,6 +57,6 @@ Enter your password then, type the command "mkdir .ssh" and logout. After this s
 ## 6. Optimizing Remote Running
 * Now that you don't need a password to remotely connect to the computer you can make your command running even more efficient by chaining commands.
 <br><br>
-* If you wanted to connect to the computer and use the command line ls you can use the following command: ![Image](8.png)
+* If you wanted to connect to the computer and use the command line ls you can use the following command: ![Image](sss.png)
 If you wanted to chain more commands you can use a semicolon to separate more commands.
-![Image](9.png)
+![Image](11.png)
