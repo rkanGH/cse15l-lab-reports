@@ -39,26 +39,26 @@ Here are a list of commands you can try:
 <br><br>
 * Next, in the terminal, run the following command:
 <br>
-<br> "scp WhereAmI.java (Your Username)@ieng6.ucscd.edu"
+<br> `scp WhereAmI.java (Your Username)@ieng6.ucscd.edu`
 <br>
 <br>
 The terminal will prompt you for your password and you will enter it.
 
-* After running the scp command line use "ls" to make sure the file WhereAmI is there. Then run it using javac and java. The output should be different from when you ran it on your computer.
+* After running the scp command line use `ls` to make sure the file WhereAmI is there. Then run it using javac and java. The output should be different from when you ran it on your computer.
 
 ## 5. Setting an SSH Key
 * Now we will set up an SSH Key which will allow you to access the remote connection more easily. You will not need to a password to connect anymore.
 
-* To do this we need to be on the local computer and use the command "ssh-keygen". It will ask you to enter a file to save the key and you will put enter "/Users/(file path on your computer)/.ssh/id_rsa" then enter no passphrase twice and your screen should look like this: 
+* To do this we need to be on the local computer and use the command `ssh-keygen`. It will ask you to enter a file to save the key and you will put enter `/Users/(file path on your computer)/.ssh/id_rsa` then enter no passphrase twice and your screen should look like this: 
 ![Image](s.png)
 <br><br>
-* Next, return to your local computer terminal and enter "ssh (Your username)@ieng6.ucsd.edu"
-Enter your password then, type the command "mkdir .ssh" and logout. After this step you should be able to log in without a password.
+* Next, return to your local computer terminal and enter `ssh (Your username)@ieng6.ucsd.edu`
+Enter your password then, type the command `mkdir .ssh` and logout. After this step you should be able to log in without a password.
 ![Image](7.png)
 
 ## 6. Optimizing Remote Running
 * Now that you don't need a password to remotely connect to the computer you can make your command running even more efficient by chaining commands.
 <br><br>
-* If you wanted to connect to the computer and use the command line ls you can use the following command: ![Image](sss.png)
+* If you wanted to connect to the computer and use the command line `ls` you can use the following command: ![Image](sss.png)
 If you wanted to chain more commands you can use a semicolon to separate more commands.
 ![Image](11.png)
