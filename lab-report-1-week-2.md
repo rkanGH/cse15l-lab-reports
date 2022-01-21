@@ -55,6 +55,7 @@ The terminal will prompt you for your password and you will enter it.
 * Next, return to your local computer terminal and enter "ssh (Your username)@ieng6.ucsd.edu"
 Enter your password then, type the command "mkdir .ssh" and logout. After this step you should be able to log in without a password.
 ![Image](7.png)
+
 ## 6. Optimizing Remote Running
 * Now that you don't need a password to remotely connect to the computer you can make your command running even more efficient by chaining commands.
 <br><br>
