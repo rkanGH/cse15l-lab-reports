@@ -17,7 +17,7 @@ To do that you must go to this link:
 * Once terminal is open, we need to  type in the command:
 "ssh (Your Username)@ieng6.ucsd.edu"
 ![Image](2.png)
-My username is cs15wi22aat so I used "ssh cs15wi22aat@ieng6.ucsd.edu" 
+My username is cs15wi22aat so I used `ssh cs15wi22aat@ieng6.ucsd.edu`
 <br><br>
 * After using the command, the terminal should prompt you for your password and once you enter your password you should see something like this:
 ![Image](3.png)
