@@ -6,6 +6,7 @@
 ![Image](vscode1.png)<br><br>
 * After downloading VSCode open the application and should see a similar page:
 ![Image](vscode2.png)
+
 ## 2. Remotely Connect to a Computer
 * Before connecting remotely, we want to access our course specific username and reset our password. <br><br>
 To do that you must go to this link: 
