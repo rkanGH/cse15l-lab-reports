@@ -15,7 +15,7 @@ To do that you must go to this link:
 * Once you have your username and new password, we want to open terminal in VSCode by using (control + `) or through  the menu option. If done correctly you should see something similar to this: ![Image](1.png)
 <br><br>
 * Once terminal is open, we need to  type in the command:
-"ssh (Your Username)@ieng6.ucsd.edu"
+`ssh (Your Username)@ieng6.ucsd.edu`
 ![Image](2.png)
 My username is cs15wi22aat so I used `ssh cs15wi22aat@ieng6.ucsd.edu`
 <br><br>
