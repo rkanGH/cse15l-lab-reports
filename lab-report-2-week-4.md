@@ -9,7 +9,7 @@ Original Code: [Link](https://github.com/ucsd-cse15l-w22/markdown-parse/blob/mai
 ## Code Change #1
 
 ![Image](c3.png)
-The error inducing input: [test2.md](https://raw.githubusercontent.com/rkanGH/cse15l-lab-reports/main/lab%202/test2.md)
+The error inducing input: [test2.md](https://raw.githubusercontent.com/rkanGH/cse15l-lab-reports/main/test2.md)
 <br>
 When the code is run with the input this is the error that is induced:
 ![Image](c4.png)
@@ -29,7 +29,7 @@ To summarize, the failure-inducing input of having a character after the last `)
 ## Code Change #2
 
 ![Image](new.png)
-The error inducing input: [test.md](https://raw.githubusercontent.com/rkanGH/cse15l-lab-reports/main/lab%202/test.md)
+The error inducing input: [test.md](https://raw.githubusercontent.com/rkanGH/cse15l-lab-reports/main/test.md)
 
 <br>
 Although the code compiles and runs when the file is run, it produces the image's link which isn't what we want.
@@ -60,7 +60,7 @@ To summarize, the error inducing input of an image link resulted in the bug of n
 
 ![Image](new1.png)
 
-The error inducing input: [test3.md](https://raw.githubusercontent.com/rkanGH/cse15l-lab-reports/main/lab%202/test3.md)
+The error inducing input: [test3.md](https://raw.githubusercontent.com/rkanGH/cse15l-lab-reports/main/test3.md)
 <br>
 
 When the error inducing input is run we can see that there is a `java.lang.StringIndexOutOfBoundsException` error: 
