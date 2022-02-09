@@ -18,7 +18,8 @@ The first step is we want to use the command `~/.ssh/config` in our terminal to 
 <br>
 
 
-Next, we want to create a new file called `config` and move it to the ssh folder. If you are unable to find the ssh folder you can use `open .ssh` to open the folder and move the `config` file to the folder. 
+Next, we want to create a new file called `config` and move it to the ssh folder. If you are unable to find the ssh folder you can use `open .ssh` to open the folder and move the `config` file to the folder.
+![Image](L3.7.png)
 
 <br>
 
