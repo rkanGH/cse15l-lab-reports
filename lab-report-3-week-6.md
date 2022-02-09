@@ -8,6 +8,7 @@
 In this week's lab report I will show how I streamlined my ssh configuration
 
 To normally when I log into ieng6 I would have to type in `ssh cs15lwi22aat@ieng6.ucsd.edu`. <br>
+
 However, there is a way where I can make this more efficient so that I only have to type  `ssh ieng6`  to access the remote computer. 
 
 <br>
