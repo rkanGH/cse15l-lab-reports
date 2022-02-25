@@ -1,4 +1,4 @@
-# Week 4 Lab Report
+# Week 6 Lab Report
 <br>
 
 ## Group Choice 3: Streamlining ssh Configuration
