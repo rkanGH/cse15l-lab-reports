@@ -109,4 +109,12 @@ The Implementation I reviewed failed:
 <br>
 
 ## Questions:
-1. 
+1. I don't think there will be a code change less than 10 lines that will fix the code. I think it will be a more involved change because there will be several cases for me to check because there might be a backtick in the middle of the link which will make the link invalid. There might also be white space along with the backticks so I would also have to add a few lines of code to trim white space which will most likely make the changes more than 10 lines.
+
+<br>
+
+2.  I there could potentially be a change that can fix the code for these types of tests that is under 10 lines. I think an if statement along with a for loop can probably take care of this problem. We can have counters that keep track of the number of open and closing parenthesis, braces, or brackets.
+
+<br>
+
+3. I think that there is a way for me to change the code in under 10 lines that can fix this problem. I can probably have an a line of code that adds all the text between the brackets and the parenthesis to a string. Then with an if statement checking if there is a new line in the string and if there is remove the new line and return the link.
