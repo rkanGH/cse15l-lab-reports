@@ -22,18 +22,18 @@
 
 ### Snippet #1 Test:
 
-![Image](l4.3.png)
+![Image](47.png)
 
 <br>
 My implementation failed:
 
-![Image](l4.1.png)
+![Image](44.png)
 
 <br>
 
 The Implementation I reviewed failed:
 
-![Image](l4.7.png)
+![Image](41.png)
 
 <br>
 <br>
@@ -48,18 +48,18 @@ The Implementation I reviewed failed:
 
 ### Snippet #2 Test:
 
-![Image](l4.5.png)
+![Image](48.png)
 
 <br>
 My implementation failed:
 
-![Image](l4.2.png)
+![Image](45.png)
 
 <br>
 
 The Implementation I reviewed failed:
 
-![Image](l4.8.png)
+![Image](42.png)
 
 <br>
 <br>
@@ -93,15 +93,20 @@ And then there's more text
 
 ### Snippet #3 Test:
 
-![Image](l4.6.png)
+![Image](49.png)
 
 <br>
 My implementation failed:
 
-![Image](l4.4.png)
+![Image](46.png)
 
 <br>
 
 The Implementation I reviewed failed:
 
-![Image](l4.9.png)
+![Image](43.png)
+<br>
+<br>
+
+## Questions:
+1. 
