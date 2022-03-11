@@ -37,6 +37,7 @@ This would be the code I would add at the end of the the getLinks method:
 
 <br>
 
+## Second Difference 
 <br>
 
 For file 507.md my implementation's output was:
